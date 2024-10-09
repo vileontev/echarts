@@ -1,0 +1,60 @@
+body {
+  min-height: 100%;
+  background-color: #edeff4;
+}
+
+
+.container {
+    display: block;
+    margin: auto;
+    translate: 0% 25%;
+  padding: 8px;
+  width: 90%;
+  height: 800px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 5px 8px 0px #0020330A;
+
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 20%;
+  height: 100%;
+}
+
+.currencies {
+  display: flex;
+  align-self: flex-end;
+}
+
+.average {
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  /* flex-direction: column;
+  align-self: self-start;
+  justify-self: end;
+  align-items: center; */
+}
+
+.average p {
+    color: #667985;
+  font-size: x-large;
+}
+
+.average span {
+  font-size: 5rem;
+  color: #f5a623;
+}
