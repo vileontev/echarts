@@ -9,3 +9,5 @@
 2. Среднее значение за период
 3. Переключение курсов валют
 4. Компоненты из библиотеки Consta UI Kit
+## Template
+https://www.figma.com/file/CppcOcor3NP1BfrppRgd4a/Test?node-id=0%3A1&mode=dev
