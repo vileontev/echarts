@@ -12,3 +12,5 @@
 5. Вёрстка по макету
 ## Template
 https://www.figma.com/file/CppcOcor3NP1BfrppRgd4a/Test?node-id=0%3A1&mode=dev
+## Video Review
+<video src="https://github.com/user-attachments/assets/403a53ed-4512-4160-b4a8-e01281b39782" controls="controls" style="max-width: 100%;"></video>
